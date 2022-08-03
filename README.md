@@ -9,7 +9,9 @@ En este hacklab, se desarrolla un script en Python con la ayuda de Google Colabo
 - Atleta con mayores ganancias por deporte por década
 - Ganancia total por cada deporte por cada año.
 - Se crea un tablero en Power BI que represente los aspectos más importantes del dataset.
-
+[Programa](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final-project.ipynb)
+[PowerBI en PDF](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final-project-second-module.pdf)
+[PowerBI](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final-project-second-module.pbix)
 Desarrollado por:
 
 - Lisette Chávez
