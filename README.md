@@ -10,7 +10,7 @@ En este hacklab, se desarrolla un script en Python con la ayuda de Google Colabo
 - Ganancia total por cada deporte por cada año.
 - Se crea un tablero en Power BI que represente los aspectos más importantes del dataset.
 ## Archivos del proyecto
-- [Programa](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final-project.ipynb)
+- [Programa](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final_project_second_module.ipynb)
 - [PowerBI en PDF](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final-project-second-module.pdf)
 - [PowerBI](https://github.com/EnigmaK9/data-science-who-earned-the-most-in-sports/blob/main/final-project-second-module.pbix)
 
